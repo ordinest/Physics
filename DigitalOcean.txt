@@ -1,0 +1,2 @@
+﻿Update app:
+doctl apps update <app-id> --spec <app spec file>

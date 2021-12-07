@@ -1,0 +1,11 @@
+name: ordinest-blazor-wasm
+static_sites:
+  - name: physics
+    github: 
+      repo: ordinest/Physics
+      branch: master
+      deploy_on_push: true
+    dockerfile_path: Dockerfile
+    output_dir: /app/wwwroot
+    index_document: index.html
+    catchall_document: index.html
