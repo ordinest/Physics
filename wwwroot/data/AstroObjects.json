@@ -1,0 +1,112 @@
+[
+  {
+    "Name": "",
+    "NGC": 7089,
+    "Messier": 2,
+    "Classification": "Globular Cluster",
+    "Constellation": "Cygnus",
+    "Coords": {
+      "RightAscension": 308.362583,
+      "Declination": -0.82325
+    }
+  },
+  {
+    "Name": "Hercules Cluster",
+    "NGC": 6205,
+    "Messier": 13,
+    "Classification": "Globular Cluster",
+    "Constellation": "Hercules",
+    "Coords": {
+      "RightAscension":250.421833,
+      "Declination": 36.45986
+    }
+  },
+  {
+    "Name": "Great Pegasus Cluster",
+    "NGC": 7078,
+    "Messier": 15,
+    "Classification": "Globular Cluster",
+    "Constellation": "Pegasus",
+    "Coords": {
+      "RightAscension": 322.493042,
+      "Declination": 12.16700
+    }
+  },
+  {
+    "Name": "Eagle Nebula",
+    "NGC": 6611,
+    "Messier": 16,
+    "Classification": "Open Cluster",
+    "Constellation": "Serpens Caput",
+    "Coords": {
+      "RightAscension": 274.700000,
+      "Declination": -13.81667
+    }
+  },
+  {
+    "Name": "Dumbbell Nebula",
+    "NGC": 6853,
+    "Messier": 27,
+    "Classification": "Planetary Nebula",
+    "Constellation": "Vulpecula",
+    "Coords": {
+      "RightAscension": 299.901417,
+      "Declination": 22.721136
+    }
+  },
+  {
+    "Name": "Cooling Tower",
+    "NGC": 6913,
+    "Messier": 29,
+    "Classification": "Open Cluster",
+    "Constellation": "Cygnus",
+    "Coords": {
+      "RightAscension": 305.9833,
+      "Declination": 38.5233
+    }
+  },
+  {
+    "Name": "",
+    "NGC": 6779,
+    "Messier": 56,
+    "Classification": "Globular Cluster",
+    "Constellation": "Lyra",
+    "Coords": {
+      "RightAscension": 289.148208,
+      "Declination": 30.183
+    }
+  },
+  {
+    "Name": "Ring Nebula",
+    "NGC": 6720,
+    "Messier": 57,
+    "Classification": "Planetary Nebula",
+    "Constellation": "Lyra",
+    "Coords": {
+      "RightAscension": 283.3961625,
+      "Declination": 33.029175
+    }
+  },
+  {
+    "Name": "Veil Nebula",
+    "NGC": 6992,
+    "Messier": 0,
+    "Classification": "Supernova Remnant",
+    "Constellation": "Cygnus",
+    "Coords": {
+      "RightAscension": 311.4083,
+      "Declination": 30.7083
+    }
+  },
+  {
+    "Name": "Cat's Eye Nebula",
+    "NGC": 6543,
+    "Messier": 0,
+    "Classification": "Planetary Nebula",
+    "Constellation": "Draco",
+    "Coords": {
+      "RightAscension": 269.6392625,
+      "Declination": 66.633200
+    }
+  }
+]
